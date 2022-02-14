@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello!!! :pray:
 
-<!--
-**Dhanush9952/Dhanush9952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile 
 
-Here are some ideas to get you started:
+I am Dhanush. I'm a Software Developer. :sunglasses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills I'm familiar with :
+DotNet Core, Angular, TypeScript, C#, ASP.Net, API, HTML, CSS, Bootstrap, Blender,...
+
+I'm good at programming, problem solving, and creative thinking.:bulb:
+
+Follow me on social media,
+
+<a href="https://twitter.com/Dhanushkrish4">
+<img src="https://img.icons8.com/color/144/000000/twitter--v1.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dhanush-krishnan-294430104/">
+<img src="https://img.icons8.com/color/144/000000/linkedin.png"/>
+</a>
+
+<a href="https://github.com/Dhanush9952">
+<img src="https://img.icons8.com/color-glass/144/000000/github-2.png"/>
+</a>
