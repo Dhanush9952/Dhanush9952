@@ -23,3 +23,6 @@ Follow me on social media,
 <img src="https://img.icons8.com/color-glass/144/000000/github-2.png"/>
 </a>
 
+<a href ="https://www.quora.com/profile/Dhanush-Krishnan-11">
+<img src="https://img.icons8.com/windows/144/000000/quora.png"/>
+ </a>
