@@ -1,4 +1,4 @@
-# Hello / வணக்கம் / 你好 / नमस्ते / こんにちは / Hola / مرحبا / Bonjour :pray:
+# Hello :pray:
 
 Welcome to my profile 
 
