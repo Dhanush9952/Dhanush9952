@@ -27,4 +27,4 @@ Follow me on social media, :rainbow_flag:
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/125/000000/external-quora-is-a-place-to-gain-and-share-knowledge-logo-color-tal-revivo.png"/>
  </a>
  <hr>
-<B>The most precious thing we have is our TIME.:watch:</B>
+<B style="text-align:center">The most precious thing we have is our TIME.:watch:</B>
