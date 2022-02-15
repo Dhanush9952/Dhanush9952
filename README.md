@@ -5,7 +5,7 @@ Welcome to my profile
 I am Dhanush. I'm a Software Developer. :sunglasses:
 
 Skills :
-DotNet Core, Angular, TypeScript, C#, ASP.Net, API, HTML, CSS, Bootstrap, Blender,...
+<i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, HTML, CSS, Bootstrap, Blender,...</i>
 
 I'm good at programming, problem solving, and creative thinking.:bulb:
 
