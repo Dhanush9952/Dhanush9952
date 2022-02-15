@@ -24,5 +24,5 @@ Follow me on social media,
 </a>
 
 <a href ="https://www.quora.com/profile/Dhanush-Krishnan-11">
-<img src="https://img.icons8.com/windows/144/000000/quora.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-color-tal-revivo.png"/>
  </a>
