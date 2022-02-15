@@ -7,9 +7,9 @@ I am Dhanush. I'm a Software Developer. :sunglasses:
 Skills :
 <i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, HTML, CSS, Bootstrap, Blender,...</i>
 
-I'm good at programming, problem solving, and creative thinking.:bulb:
+I'm good at programming, problem solving, and creative thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
 
-Follow me on social media,
+Follow me on social media, :rainbow_flag:
 
 <a href="https://twitter.com/Dhanushkrish4">
 <img src="https://img.icons8.com/color/144/000000/twitter--v1.png"/>
