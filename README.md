@@ -26,4 +26,5 @@ Follow me on social media, :rainbow_flag:
 <a href ="https://www.quora.com/profile/Dhanush-Krishnan-11">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/125/000000/external-quora-is-a-place-to-gain-and-share-knowledge-logo-color-tal-revivo.png"/>
  </a>
-<B>The most precious thing we have is our TIME.:watch:,:clock12:,:clock6:,</B>
+ <hr>
+<B>The most precious thing we have is our TIME.:watch:</B>
