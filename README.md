@@ -2,7 +2,7 @@
 
 Welcome to my profile 
 
-I am Dhanush. I'm a Software Developer. :sunglasses:
+I am Dhanush. I'm a Web app Developer. :sunglasses:
 
 Skills :
 <i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, Blender,...</i>
