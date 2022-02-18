@@ -2,7 +2,9 @@
 
 Welcome to my profile 
 
-I am Dhanush. I'm a Web app Developer. :sunglasses:
+I am Dhanush.
+The sites with that "You need to subscribe to keep reading" message aren't a problem for me.
+VSCode and Chrome are my 2 most used apps. I can tell a color by it's hex value.
 
 Skills :
 <i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, Blender,...</i>
