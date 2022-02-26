@@ -15,7 +15,6 @@ I'm very much aware to the minute when StackOverflow goes down.
 I'm good at programming, problem solving, and creative thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
 
 Follow me on social media, :rainbow_flag:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&color=%232378F0&size=16&lines=Follow+me+on+social+media%2C)](https://git.io/typing-svg)
 
 <a href="https://twitter.com/Dhanushkrish4">
 <img src="https://img.icons8.com/color/144/000000/twitter--v1.png"/>
