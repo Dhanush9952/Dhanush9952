@@ -26,6 +26,8 @@ I'm very much aware to the minute when StackOverflow goes down.
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
     </td>
+</tr>
+<tr>
     <td align='center'>
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
     </td>
@@ -34,6 +36,9 @@ I'm very much aware to the minute when StackOverflow goes down.
     </td>
     <td align='center'>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    </td>
+    <td align='center'>    
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
     </td>
 </tr>
  </table>
