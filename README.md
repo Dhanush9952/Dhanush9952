@@ -12,13 +12,13 @@ I'm very much aware to the minute when StackOverflow goes down.
 <table>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
