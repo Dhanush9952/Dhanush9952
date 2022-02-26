@@ -8,22 +8,23 @@ VSCode and Chrome are my 2 most used apps.<br>
 I can tell a color by it's hex value.<br>
 Press Ctrl + Shift + I after loading a page.<br>
 I'm very much aware to the minute when StackOverflow goes down.
+## Tech Stack :computer: (My Skills)
 <table>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
     </td>
 </tr>
  </table>
