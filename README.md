@@ -8,7 +8,25 @@ VSCode and Chrome are my 2 most used apps.<br>
 I can tell a color by it's hex value.<br>
 Press Ctrl + Shift + I after loading a page.<br>
 I'm very much aware to the minute when StackOverflow goes down.
-
+<table>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+    </td>
+</tr>
+ </table>
 <b>Skills :</b>
 <i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, Blender,...</i>
 
