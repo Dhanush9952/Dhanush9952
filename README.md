@@ -1,6 +1,6 @@
 # Hello :pray:
 
-Welcome to my profile 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+!+⭐)](https://git.io/typing-svg)
 
 I am Dhanush.<br>
 The sites with that "You need to subscribe to keep reading" message aren't a problem for me.<br>
