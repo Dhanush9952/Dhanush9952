@@ -6,8 +6,9 @@ I am Dhanush.<br>
 The sites with that "You need to subscribe to keep reading" message aren't a problem for me.<br>
 VSCode and Chrome are my 2 most used apps.<br>
 I can tell a color by it's hex value.
+Ctrl + Shift + I
 
-Skills :
+<b>Skills :</b>
 <i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, Blender,...</i>
 
 I'm good at programming, problem solving, and creative thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
