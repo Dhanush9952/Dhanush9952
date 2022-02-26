@@ -15,7 +15,7 @@ I'm very much aware to the minute when StackOverflow goes down.
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg">
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
@@ -32,7 +32,7 @@ I'm very much aware to the minute when StackOverflow goes down.
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
     </td>
     <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
     </td>
     <td align='center'>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
