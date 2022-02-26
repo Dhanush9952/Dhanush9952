@@ -6,7 +6,8 @@ I am Dhanush.<br>
 The sites with that "You need to subscribe to keep reading" message aren't a problem for me.<br>
 VSCode and Chrome are my 2 most used apps.<br>
 I can tell a color by it's hex value.
-Press Ctrl + Shift + I after loading a page
+Press Ctrl + Shift + I after loading a page.
+I'm very much aware to the minute when StackOverflow goes down.
 
 <b>Skills :</b>
 <i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, Blender,...</i>
