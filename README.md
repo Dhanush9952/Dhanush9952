@@ -1,4 +1,4 @@
-# Hello :pray:
+# Hello :pray:[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314E960&lines=%F0%9F%99%8F)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314E960&lines=Welcome+to+my+profile+!+⭐)](https://git.io/typing-svg)
 
