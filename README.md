@@ -32,6 +32,9 @@ I'm very much aware to the minute when StackOverflow goes down.
     <td align='center'>
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
+    <td align='center'>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    </td>
 </tr>
  </table>
 <b>Skills :</b>
