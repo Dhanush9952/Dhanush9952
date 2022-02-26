@@ -38,7 +38,10 @@ I'm very much aware to the minute when StackOverflow goes down.
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>
     <td align='center'>    
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+    <td align='center'>
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg">
     </td>
 </tr>
  </table>
