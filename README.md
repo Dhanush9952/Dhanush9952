@@ -1,7 +1,7 @@
 # Hello :pray:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314E960&lines=Welcome+to+my+profile+!+⭐)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314E960&lines=D)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E93920&lines=h)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E9E609&lines=a)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2312C1D2&lines=n)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232E2FD2&lines=u)](https://git.io/typing-svg)
+
 I am Dhanush.<br>
 The sites with that "You need to subscribe to keep reading" message aren't a problem for me.<br>
 VSCode and Chrome are my 2 most used apps.<br>
