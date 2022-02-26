@@ -15,7 +15,7 @@ I'm very much aware to the minute when StackOverflow goes down.
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
