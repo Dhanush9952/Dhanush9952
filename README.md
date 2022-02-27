@@ -12,7 +12,9 @@ I'm very much aware to the minute when StackOverflow goes down.
 <table>
 <tr>
     <td align='center'>
+        <a href="https://angular.io/">
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+        </a>
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
