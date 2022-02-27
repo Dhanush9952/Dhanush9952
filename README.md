@@ -69,7 +69,7 @@ Follow me on social media, :rainbow_flag:
  </a>
  
  <a href ="https://dev.to/dhanush9952">
- <img src="https://img.icons8.com/windows/96/000000/dev.png"/>
+ <img src="https://img.icons8.com/ios-filled/100/000000/devpost.png"/>
  </a>
  <hr>
  
