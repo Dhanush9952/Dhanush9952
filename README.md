@@ -53,7 +53,7 @@ I'm good at programming, problem solving, and creative thinking.:bulb:,:trumpet:
 Follow me on social media, :rainbow_flag:
 
 <a href="https://twitter.com/Dhanushkrish4">
-<img src="https://img.icons8.com/color/144/000000/twitter--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhanush-krishnan-294430104/">
