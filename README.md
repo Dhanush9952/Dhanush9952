@@ -1,6 +1,6 @@
 # Hello :pray:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314E960&lines=Welcome+to+my+profile+!+⭐;Have+a+Nice+day!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314E960&lines=Welcome+to+my+profile+!+⭐;Have+a+nice+day!!!;Happy+Coding+..+.)](https://git.io/typing-svg)
 
 I am Dhanush.<br>
 The sites with that "You need to subscribe to keep reading" message aren't a problem for me.<br>
