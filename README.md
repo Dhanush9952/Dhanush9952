@@ -67,5 +67,9 @@ Follow me on social media, :rainbow_flag:
 <a href ="https://www.quora.com/profile/Dhanush-Krishnan-11">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-quora-is-a-place-to-gain-and-share-knowledge-logo-color-tal-revivo.png"/>
  </a>
+ 
+ <a href ="https://dev.to/dhanush9952">
+ <img src="https://img.icons8.com/windows/96/000000/dev.png"/>
+ </a>
  <hr>
  
