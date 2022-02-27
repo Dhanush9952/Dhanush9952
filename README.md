@@ -57,15 +57,15 @@ Follow me on social media, :rainbow_flag:
 </a>
 
 <a href="https://www.linkedin.com/in/dhanush-krishnan-294430104/">
-<img src="https://img.icons8.com/color/144/000000/linkedin.png"/>
+<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>
 </a>
 
 <a href="https://github.com/Dhanush9952">
-<img src="https://img.icons8.com/color-glass/144/000000/github-2.png"/>
+<img src="https://img.icons8.com/color-glass/96/000000/github-2.png"/>
 </a>
 
 <a href ="https://www.quora.com/profile/Dhanush-Krishnan-11">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/125/000000/external-quora-is-a-place-to-gain-and-share-knowledge-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-quora-is-a-place-to-gain-and-share-knowledge-logo-color-tal-revivo.png"/>
  </a>
  <hr>
  
