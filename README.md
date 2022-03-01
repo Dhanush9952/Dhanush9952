@@ -2,12 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314E960&lines=Welcome+to+my+profile+!+⭐;Have+a+nice+day!!!;Happy+Coding+...)](https://git.io/typing-svg)
 
-I am Dhanush.<br>
-The sites with that "You need to subscribe to keep reading" message aren't a problem for me.<br>
-VSCode and MS-Edge are my 2 most used apps.<br>
-I can tell a color by it's hex value.<br>
-Press Ctrl + Shift + I after loading a page.<br>
-I'm very much aware to the minute when StackOverflow goes down.
+I am Dhanush 
+
 ## Tech Stack :computer: (My Skills)
 <table>
 <tr>
