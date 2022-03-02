@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314E960&lines=Welcome+to+my+profile+!+⭐;Have+a+nice+day!!!;Happy+Coding+...)](https://git.io/typing-svg)
 
-I am Dhanush 
-
+<b>I am Dhanush </b>
+Currently not contributing anything. This account is just for my personal use.
 ## Tech Stack :computer: (My Skills)
 <table>
 <tr>
@@ -70,4 +70,8 @@ Follow me on social media, :rainbow_flag:
  <img src="https://img.icons8.com/ios-filled/100/000000/devpost.png"/>
  </a>
  <hr>
- 
+ ## Contribution Graph 📊
+
+<img
+     src="https://activity-graph.herokuapp.com/graph?username=Dhanush9952&theme=chartreuse-dark"
+     />
