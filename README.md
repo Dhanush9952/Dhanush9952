@@ -14,10 +14,14 @@ If my code has helped you, please consider sponsoring me.<br>
         </a>
     </td>
     <td align='center'>
+        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
+         </a>
     </td>
     <td align='center'>
+        <a href="https://www.typescriptlang.org/">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+         </a>
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
@@ -28,7 +32,9 @@ If my code has helped you, please consider sponsoring me.<br>
 </tr>
 <tr>
     <td align='center'>
+    <a href="https://github.com/">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+    </a>
     </td>
     <td align='center'>
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
@@ -40,7 +46,9 @@ If my code has helped you, please consider sponsoring me.<br>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
     <td align='center'>
+    <a href="https://dev.to/">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg">
+    </a>
     </td>
 </tr>
  </table>
