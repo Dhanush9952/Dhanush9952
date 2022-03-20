@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C02E60FF&lines=Welcome+to+my+profile+!+⭐;Have+a+nice+day!!!;Happy+Coding+...)](https://git.io/typing-svg)
 
 <b>I am Dhanush </b> <br>
-Currently not contributing anything. But the account is active and I'm using github everyday.<br>
+Currently not contributing anything.<br>
 If my code has helped you, please consider sponsoring me.<br>
 ## Tech Stack :computer: (My Skills)
 <table>
