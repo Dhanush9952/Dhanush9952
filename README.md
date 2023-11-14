@@ -4,7 +4,6 @@
 
 <b>I am Dhanush </b> <br>
 Currently not contributing anything.<br>
-If my code has helped you, please consider sponsoring me.<br>
 ## Tech Stack :computer: (My Skills)
 <table>
 <tr>
