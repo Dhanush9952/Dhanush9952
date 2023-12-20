@@ -18,8 +18,8 @@ Currently not contributing anything.<br>
          </a>
     </td>
     <td align='center'>
-        <a href="https://www.typescriptlang.org/">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png">
          </a>
     </td>
     <td align='center'>
