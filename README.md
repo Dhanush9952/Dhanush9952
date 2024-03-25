@@ -4,6 +4,7 @@
 
 <b>I am Dhanush </b> <br>
 I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics. My articles have been featured on multiple reputable websites. If my code has helped you, consider sponsoring me. Thank you!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvananavate&label=Profile%20views&color=0e75b6&style=flat" alt="atharvananavate" /> </p>
 ## Tech Stack :computer: (My Skills)
 <table>
 <tr>
