@@ -1,5 +1,10 @@
-<b>I am Dhanush </b> <br>
-I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics. My articles have been featured on multiple reputable websites. You can find my works at <a href="https://bio.link/dhanushprofile" target="blank">bio.link</a>
+<h2>This is my OLD profile</h2>
+<h2><a href="https://github.com/dhan-profile" target="blank">CLICK HERE</a> to view my new profile</h2>
+<br>
+
+<div align="center">
+ 
+You can find my works at <a href="https://bio.link/dhanushprofile" target="blank">bio.link</a>
 ## Tech Stack :computer: (My Skills)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,15 +21,12 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Clickup](https://img.shields.io/badge/clickup-%23703FFB.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
- <a href="https://www.c-sharpcorner.com/members/dhanush-krishnan">
-<img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="profile for Dhanush C# Corner - A Social Community of Developers and Programmers" title="profile for Dhanush at C# Corner - A Social Community of Developers and Programmers" />
-</a>
 <br>
 <b>Skills :</b>
 <i>Java, HTML, CSS, Angular, TypeScript, JavaScript, C#, ASP.Net, DotNet Core, API, SQL, Bootstrap, SpringBoot ...</i>
 
 ## 📊 GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=neon&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=neon&hide_border=true" /> |
 | ------------- | ------------- |
 
 Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
@@ -46,9 +48,6 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 <a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="16487734" height="40" width="40" /></a>
 &nbsp;
 <hr>
-Contribution Graph 📊
-
-[![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhan-profile&theme=radical&no-frame=false&no-bg=true&margin-w=4)
