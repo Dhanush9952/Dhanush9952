@@ -1,11 +1,6 @@
 <div align="center">
 
- <h2 style="color:red;">This is my OLD profile</h2>
- 
-<h2><a href="https://github.com/dhan-profile" target="blank">👉CLICK HERE</a> to view my new profile</h2>
-<br>
-
-You can also visit <a href="https://bio.link/dhanushprofile" target="blank">bio.link</a>
+ <h2 style="color:red;">Welcome to my profile👋</h2>
 
 <br>
 <b>Skills :</b>
